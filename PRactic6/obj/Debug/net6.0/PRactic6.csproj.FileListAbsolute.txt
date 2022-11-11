@@ -1,0 +1,17 @@
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\bin\Debug\net6.0\PRactic6.exe
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\bin\Debug\net6.0\PRactic6.deps.json
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\bin\Debug\net6.0\PRactic6.runtimeconfig.json
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\bin\Debug\net6.0\PRactic6.dll
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\bin\Debug\net6.0\PRactic6.pdb
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.csproj.AssemblyReference.cache
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.AssemblyInfoInputs.cache
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.AssemblyInfo.cs
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.csproj.CoreCompileInputs.cache
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.dll
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\refint\PRactic6.dll
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.pdb
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.genruntimeconfig.cache
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\ref\PRactic6.dll
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Петрушка\source\repos\PRactic6\PRactic6\obj\Debug\net6.0\PRactic6.csproj.CopyComplete
