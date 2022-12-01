@@ -15,7 +15,7 @@ namespace Redactor
                 Console.WriteLine("Выбирете путь до файла \t Чтобы выйти нажмите Escape");
                 ConsoleKeyInfo key = Console.ReadKey();
                  path = Console.ReadLine();
-                path = ("C" + path);  // костыль.У меня почему то непередавался диск, хотя вводил я его вверно, пришлось таким способом добовлять
+                path = ("C" + path);  // костыль.У меня почему то не передавался диск, хотя вводил я его вверно, пришлось таким способом добовлять
                 Text_text text = new Text_text();
                 text.text = File.ReadAllText(path);
                 Info(text, path);
@@ -38,7 +38,7 @@ namespace Redactor
                 if (key.Key == ConsoleKey.F1)
                 {
                     k = false;
-                    Saveworld.gaga(text, path);
+                    Saveworld.Serialized(text, path);
                 }
                 if (key.Key == ConsoleKey.Escape)
                 {

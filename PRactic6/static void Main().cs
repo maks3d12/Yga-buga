@@ -17,7 +17,7 @@ namespace Save
     internal class Saveworld
     {
 
-        public static void gaga(Text_text text, string path)
+        public static void Serialized(Text_text text, string path) 
         {
             text.text = Deserialized(text, path);
             Console.Clear();
